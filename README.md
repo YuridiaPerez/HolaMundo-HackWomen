@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Yuridia Pérez
+- Me gusta el diseño 🎨
+- Jugar videojuegos 🎮
+- Ver series (doramas) 🎬🖥
